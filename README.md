@@ -1,4 +1,4 @@
-# cap
+# Maker's Film DJU Capstone Design
 
 ## Project setup
 ```
