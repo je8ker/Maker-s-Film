@@ -6,6 +6,7 @@
           v-model="form"
           @submit.prevent="onSubmit"
       >
+
         <v-text-field
             prepend-inner-icon="mdi-email"
             v-model="email"

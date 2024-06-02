@@ -10,8 +10,10 @@
         <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="First slide">
         <div class="container">
           <div class="carousel-caption text-start">
-            <h1>Example headline.</h1>
-            <p>Some representative placeholder content for the first slide of the carousel.</p>
+            <h1>한계를 뛰어넘는 창작, Maker's Film</h1>
+            <p>텍스트에서 영상, 이미지에서 비디오까지 AI가 당신의 창작을 도와드립니다. 지금 시작하세요!
+
+            </p>
           </div>
         </div>
       </div>
@@ -19,8 +21,8 @@
         <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="Second slide">
         <div class="container">
           <div class="carousel-caption">
-            <h1>Another example headline.</h1>
-            <p>Some representative placeholder content for the second slide of the carousel.</p>
+            <h1>아이디어가 빛나는 순간, Maker's Film</h1>
+            <p>텍스트, 이미지, 비디오를 자유롭게 변환하여 맞춤형 콘텐츠를 제작하는 혁신적인 웹 서비스. 지금 경험해보세요!</p>
           </div>
         </div>
       </div>
@@ -28,8 +30,8 @@
         <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="Third slide">
         <div class="container">
           <div class="carousel-caption text-end">
-            <h1>One more for good measure.</h1>
-            <p>Some representative placeholder content for the third slide of this carousel.</p>
+            <h1>상상 그 이상을 현실로, Maker's Film</h1>
+            <p>최첨단 AI 기술로 텍스트에서 영상까지, 이미지에서 비디오까지. 당신의 창의적 비전을 완벽하게 구현해드립니다.</p>
           </div>
         </div>
       </div>

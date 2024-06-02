@@ -52,13 +52,9 @@
         <p class="lead">당신의 추억을 영상으로 회상해보세요. 당신의 추억 속 사진이 영상이 되어서 움직입니다.</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-             height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-             preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title>
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+        <img src="/video/waterfall.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
       </div>
+
     </div>
     <hr class="featurette-divider">
 
@@ -70,12 +66,7 @@
           곳에 사용하십시오</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-             height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-             preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title>
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+        <img src="/video/cherry.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
       </div>
     </div>
 
@@ -86,13 +77,8 @@
         <h2 class="featurette-heading fw-normal lh-1" style="margin-bottom: 20px;">당신의 캐릭터가 움직입니다. </h2>
         <p class="lead">당신이 좋아하는 캐릭터를 영상으로써 만나보세요. 캐릭터의 그림이 움직이면서 당신을 만나러갑니다.</p>
       </div>
-      <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-             height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-             preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title>
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"/>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+      <div class="col-md-5 order-md-1">
+        <img src="/video/killer_whale.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
       </div>
     </div>
   </div>
