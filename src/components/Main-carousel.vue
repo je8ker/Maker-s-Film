@@ -7,18 +7,17 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="First slide">
+        <img src="/video/main1.gif" class="d-block w-100" alt="First slide">
         <div class="container">
           <div class="carousel-caption text-start">
             <h1>한계를 뛰어넘는 창작, Maker's Film</h1>
             <p>텍스트에서 영상, 이미지에서 비디오까지 AI가 당신의 창작을 도와드립니다. 지금 시작하세요!
-
             </p>
           </div>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="Second slide">
+        <img src="/video/main2.gif" class="d-block w-100" alt="Second slide">
         <div class="container">
           <div class="carousel-caption">
             <h1>아이디어가 빛나는 순간, Maker's Film</h1>
@@ -27,7 +26,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://bto.or.kr/attach/IMAGE/PopupMgr/PopupZoneUpload/2023/12/RX8237ElIVtyQqzO.JPG" class="d-block w-100" alt="Third slide">
+        <img src="/video/main3.gif" class="d-block w-100" alt="Third slide">
         <div class="container">
           <div class="carousel-caption text-end">
             <h1>상상 그 이상을 현실로, Maker's Film</h1>

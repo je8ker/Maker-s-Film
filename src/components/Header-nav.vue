@@ -14,9 +14,6 @@
             <a class="nav-link active" aria-current="page" href="#section2">업로드</a>
           </li>
           <li class="nav-item me-auto">
-            <a class="nav-link active" aria-current="page" href="#section3">다운로드</a>
-          </li>
-          <li class="nav-item me-auto">
             <a class="nav-link active" aria-current="page" href="#section4">이메일</a>
           </li>
         </ul>

@@ -8,7 +8,7 @@
     <Main-carousel/>
 
     <Mainintroduce/>
-    <!--  <FormComponet/>-->
+<!--      <FormComponet/>-->
     <fileinput/>
   </main>
 
