@@ -11,10 +11,10 @@
             <a class="nav-link active" aria-current="page" href="#section1">소개</a>
           </li>
           <li class="nav-item me-auto">
-            <a class="nav-link active" aria-current="page" href="#section2">업로드</a>
+            <a class="nav-link active" aria-current="page" href="#section2">설명</a>
           </li>
           <li class="nav-item me-auto">
-            <a class="nav-link active" aria-current="page" href="#section4">이메일</a>
+            <a class="nav-link active" aria-current="page" href="#section3">업로드</a>
           </li>
         </ul>
       </div>

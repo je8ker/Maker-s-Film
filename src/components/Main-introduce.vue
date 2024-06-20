@@ -1,6 +1,5 @@
 <template>
   <div id="section1" class="container marketing introduce" style="margin-top: 30px;">
-
     <div class="row">
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
@@ -44,15 +43,19 @@
         <p>메이커스 필름은 사용자의 요구와 취향에 맞게 사진과 영상을 제작하여 전달합니다.</p>
       </div>
     </div>
+  </div>
+  <div id="section2" class="container marketing introduce" style="margin-top: 30px;">
 
-    <hr class="featurette-divider">
+  <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1" style="margin-bottom: 20px;">당신의 추억을 영상으로 회상해보세요. </h2>
         <p class="lead">당신의 추억을 영상으로 회상해보세요. 당신의 추억 속 사진이 영상이 되어서 움직입니다.</p>
       </div>
       <div class="col-md-5">
-        <img src="/video/waterfall.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
+        <img src="/video/waterfall.gif"
+             class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image"
+             width="500" height="500">
       </div>
 
     </div>
@@ -66,7 +69,9 @@
           곳에 사용하십시오</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <img src="/video/cherry.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
+        <img src="/video/cherry.gif"
+             class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image"
+             width="500" height="500">
       </div>
     </div>
 
@@ -78,10 +83,13 @@
         <p class="lead">당신이 좋아하는 캐릭터를 영상으로써 만나보세요. 캐릭터의 그림이 움직이면서 당신을 만나러갑니다.</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <img src="/video/killer_whale.gif" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image" width="500" height="500">
+        <img src="/video/killer_whale.gif"
+             class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" alt="Example image"
+             width="500" height="500">
       </div>
     </div>
   </div>
+
 </template>
 
 <style>
@@ -106,4 +114,6 @@
 
 </style>
 <script setup>
+
+
 </script>
